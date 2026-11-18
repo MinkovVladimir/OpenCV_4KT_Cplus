@@ -1,0 +1,11 @@
+# Сборочные директории
+build-*/
+*.pro.user*
+CMakeLists.txt.user*
+
+# Бинарные файлы
+*.o
+*.a
+*.so
+*.dll
+*.exe

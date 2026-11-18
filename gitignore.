@@ -1,0 +1,7 @@
+# Добавить в .gitignore:
+build/
+*.avi
+*.mp4
+frames/
+video_faces/
+
