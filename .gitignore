@@ -1,0 +1,7 @@
+build/
+.qtcreator/
+*.user
+*.avi
+*.mp4
+frames/
+video_faces/
